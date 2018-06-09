@@ -7,7 +7,7 @@
       "authDomain": "mycomicshelf.firebaseapp.com",
       "databaseURL": "https://mycomicshelf.firebaseio.com",
       "projectId": "mycomicshelf",
-      "storageBucket": "",
+      "storageBucket": "mycomicshelf.appspot.com",
       "messagingSenderId": "484388500264"
     }
   }
