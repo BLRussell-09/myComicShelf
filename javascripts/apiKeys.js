@@ -9,7 +9,7 @@ const apiKeys = () =>
 {
   return new Promise((resolve, reject) =>
   {
-    $.ajax('./db/apiKeys0.json')
+    $.ajax('./db/apiKeys.json')
     .done((data) =>
     {
       resolve(data.apiKeys);

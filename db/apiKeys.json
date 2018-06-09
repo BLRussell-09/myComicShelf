@@ -3,12 +3,13 @@
   {
     "firebase":
     {
-      "apiKey": "",
-      "authDomain": "",
-      "databaseURL": "",
-      "projectId": "",
-      "storageBucket": "",
-      "messagingSenderId": ""
+      "apiKey": "AIzaSyDXLe_9zztVjODXRsE4jRvCbPfIGWD8Gac",
+      "authDomain": "mycomicshelf.firebaseapp.com",
+      "databaseURL": "https://mycomicshelf.firebaseio.com",
+      "projectId": "mycomicshelf",
+      "storageBucket": "mycomicshelf.appspot.com",
+      "messagingSenderId": "484388500264"
+
     }
   }
 }
